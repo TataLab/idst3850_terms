@@ -1,0 +1,44 @@
+## Learn these terms for your test.  Be able to write a few sentences describing each term.
+
+
+- Pulse-Width Modulation
+- Servo
+- Motor Encoder
+- Inertial Measurement Unit
+- Proportional Integral Derivative Controller
+- Point Cloud
+- I2C
+- SPI
+- GPIO
+- robot
+- SLAM
+- pose
+- ROS
+- Raspberry Pi 
+- Single Board Computer
+- microcontroller
+- Aldebaran
+- Boston Dynamics
+- Rethink Robotics
+- Willow Garage
+- ClearPath Robotics
+- 4Front Robotics
+- Asimo
+- iCub
+- Atlas
+- Big Dog
+- Davinci Surgical Systems
+- Lego Mindstorms
+- Gazebo
+- Sampling Rate
+- Aliasing
+- Nyquist
+- bit-depth (quantization)
+- Baud rate
+- behaviour control
+- cognitive robotics
+- open-loop control
+- closed-loop control
+- allocentric
+- egocentric
+- Kalman Filter
