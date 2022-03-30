@@ -1,8 +1,7 @@
 ## Learn these terms for your test.  Be able to write a few sentences describing each term.
 
 
-- Pulse-Width Modulation
--    a modulation technique that generates variable-width pulses to represent the amplitude of an analog input signal.
+- Pulse-Width Modulation: a modulation technique that generates variable-width pulses to represent the amplitude of an analog input signal.
 - Servo
 - Motor Encoder
 - Inertial Measurement Unit
