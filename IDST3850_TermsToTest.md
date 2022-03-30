@@ -2,6 +2,7 @@
 
 
 - Pulse-Width Modulation
+-    a modulation technique that generates variable-width pulses to represent the amplitude of an analog input signal.
 - Servo
 - Motor Encoder
 - Inertial Measurement Unit
