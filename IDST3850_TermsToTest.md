@@ -2,37 +2,36 @@
 
 
 - Pulse-Width Modulation: a modulation technique that generates variable-width pulses to represent the amplitude of an analog input signal. 
-- Servo: Servo motors or “servos”, as they are known, are electronic devices. They are either linear or rotary actuators that are made push or pull parts of a machine with presicion
+- Servo: device used to provide control of a desired operation using feedback
 - Motor Encoder: a rotary encoder mounted to an electric motor that provides a close loop feedback signal that tracts the motors shafts' speed and/or position 
 - Inertial Measurement Unit: measures and reports the raw or filterred angular rate and specific force/acceleration of the thing it is attcahed to.
-- Proportional Integral Derivative Controller
-- Point Cloud
+- Proportional Integral Derivative Controller: a control loop mechanism employing feedback that is widely used in industrial control systems and a variety of other applications requiring continuously modulated control.
+- Point Cloud: a set of data points in space. The points may represent a 3D shape or object. Each point position has its set of Cartesian coordinates (X, Y, Z).
 - I2C (Inter-Integrated Circuit): a synchronous, multi-controller/multi-target (controller/target), packet switched, single-ended, serial communication bus invented in 1982 by Philips Semiconductors. 
 - SPI (Serial Peripheral Interface): an electronic interface that provides a serial exchange between two devices
-- GPIO
-- robot
-- SLAM
-- pose
-- ROS
-- Raspberry Pi 
+- GPIO: an uncommitted digital signal pin on an integrated circuit or electronic circuit board which may be used as an input or output, or both, and is controllable by the user at runtime.
+- robot: any automatic machine that replaces human effort. It is capable of carrying out a complex series of actions automatically. 
+- SLAM (Simultaneous Localization and Mapping): the computational problems of constructing or updating a map of an unknown environment while simultaneously keeping track of an agent's location within it. 
+- pose : It is the position and orientation of an object (usually robot)
+- ROS (Robot Operating System):  is an open-source robotics middleware suite.
+- Raspberry Pi: a series of small single-board computers (SBCs) developed in the United Kingdom by the Raspberry Pi Foundation in association with Broadcom.  
 - Single Board Computer
-- microcontroller
-- Aldebaran
-- Boston Dynamics
+- microcontroller: a small computer on a single metal-oxide-semiconductor (MOS) integrated circuit (IC) chip.
+- Aldebaran: known as SoftBank robotics, it is a company that leads the robotic space in creating humanoid robots. 
+- Boston Dynamics: A robotics company that builds machines that can approximate the mobility, dexterity and agility of people and animals. They are an American engineering and robotics design company founded in 1992 as a spin-off from the Massachusetts Institute of Technology  
 - Rethink Robotics : (formerly Heartland Robotics) is a robotics company co-founded by Rodney Brooks and Ann Whittaker in 2008. They aim to manufacture smart collaborative robots for small-medium sized enterprised.
 - Willow Garage: a robotics research lab and technology incubator devoted to developing hardware and open-source software for personal robotics applications.
 The company was most likely best known for its open-source software suite ROS (Robot Operating System), which has been rapidly and widely becoming a common, standard tool among robotics researchers and industry, since its initial release in 2010.
-
-- ClearPath Robotics
-- 4Front Robotics
-- Asimo
-- iCub
-- Atlas
-- Big Dog
-- Davinci Surgical Systems
-- Lego Mindstorms
-- Gazebo
-- Sampling Rate
+- ClearPath Robotics: Clearpath Robotics, Inc. was founded in 2009 by a group of four University of Waterloo graduates. The original goal of Clearpath was to streamline field robotics research for universities and private corporations, but the company has since expanded and is now also manufacturing and selling the OTTO line of self-driving vehicles for industrial environments.
+- 4Front Robotics: provide unmanned vehicles and perform services for complex missions
+- Asimo (Advanced Step in Innovative Mobility): A humanoid robot created by Honda in 2000. It is currently displayed in the Miraikan museum in Tokyo, Japan. 
+- iCub: 1-metre-tall open-source robotics humanoid robot testbed for research into human cognition and artificial intelligence.
+- Atlas: A bipedal humanoid robot primarily developed by the American robotics company Boston Dynamics with funding and oversight from the U.S. Defense Advanced Research Projects Agency (DARPA). The robot was initially designed for a variety of search and rescue tasks.
+- Big Dog: A dynamically stable quadruped military robot that was created in 2005 by Boston Dynamics with Foster-Miller, the NASA Jet Propulsion Laboratory, and the Harvard University Concord Field Station.
+- Davinci Surgical Systems: a robotic surgical system made by the American company Intuitive Surgical. Approved by the Food and Drug Administration (FDA) in 2000, it is designed to facilitate surgery using a minimally invasive approach and is controlled by a surgeon from a console.
+- Lego Mindstorms: a hardware and software structure which is produced by Lego for the development of programmable robots based on Lego building blocks.
+- Gazebo: Gazebo was a component in the Player Project from 2004 through 2011. Gazebo integrated the ODE physics engine, OpenGL rendering, and support code for sensor simulation and actuator control.
+- Sampling Rate: the number of samples taken per second.
 - Aliasing
 - Nyquist
 - bit-depth (quantization)
