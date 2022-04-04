@@ -1,0 +1,148 @@
+Willow Garage:
+Was a robotics research lab and technology incubator devoted to developing hardware and open-source software for personal robotics applications.
+The company was most likely best known for its open-source software suite ROS (Robot Operating System), which has been rapidly and widely becoming a common, standard tool among 
+robotics researchers and industry, since its initial release in 2010.
+
+Rethink Robotics:
+Formerly Heartland Robotics, is a robotics company co-founded by Rodney Brooks and Ann Whittaker in 2008.
+
+Boston Dynamics:
+Is an American engineering and robotics design company founded in 1992 as a spin-off from the Massachusetts Institute of Technology.
+
+Nao (pronounced now):
+Is an autonomous, programmable humanoid robot developed by Aldebaran Robotics, a French robotics company headquartered in Paris, which was acquired by SoftBank Group in 2015
+and rebranded as SoftBank Robotics.
+
+A microcontroller (MCU for microcontroller unit):
+Is a small computer on a single metal-oxide-semiconductor (MOS) integrated circuit (IC) chip. 
+
+A single-board computer (SBC):
+Is a complete computer built on a single circuit board, with microprocessor(s), memory, input/output (I/O) and other features required of a functional computer.
+
+Raspberry Pi (/paɪ/):
+Is a series of small single-board computers (SBCs) developed in the United Kingdom by the Raspberry Pi Foundation in association with Broadcom.
+
+Robot Operating System (ROS): 
+Is an open-source robotics middleware suite.
+
+Pose: 
+In computer vision and robotics, a typical task is to identify specific objects in an image and to determine each object's position and orientation relative to some coordinate system. 
+This information can then be used, for example, to allow a robot to manipulate an object or to avoid moving into the object. 
+
+Simultaneous localization and mapping (SLAM):
+Are the computational problems of constructing or updating a map of an unknown environment while simultaneously keeping track of an agent's location within it. 
+Known as a chicken egg problem
+
+A robot:
+Is a machine—especially one programmable by a computer—capable of carrying out a complex series of actions automatically.
+
+A general-purpose input/output (GPIO): 
+Is an uncommitted digital signal pin on an integrated circuit or electronic circuit board which may be used as an input or output, or both, and is controllable by the user at runtime.
+
+The Serial Peripheral Interface (SPI): 
+Is a synchronous serial communication interface specification used for short-distance communication, primarily in embedded systems. 
+
+I2C (Inter-Integrated Circuit), alternatively known as I2C or IIC: 
+Is a synchronous, multi-controller/multi-target (controller/target), packet switched, single-ended, serial communication bus invented in 1982 by Philips Semiconductors.
+
+A point cloud:
+Is a set of data points in space. The points may represent a 3D shape or object. Each point position has its set of Cartesian coordinates (X, Y, Z).
+
+A proportional–integral–derivative controller (PID controller or three-term controller):
+Is a control loop mechanism employing feedback that is widely used in industrial control systems and a variety of other applications requiring continuously modulated control.
+
+An inertial measurement unit (IMU): 
+Is an electronic device that measures and reports a body's specific force, angular rate, and sometimes the orientation of the body, using a combination of accelerometers, gyroscopes,
+and sometimes magnetometers.
+
+A rotary encoder, also called a shaft encoder:
+Is an electro-mechanical device that converts the angular position or motion of a shaft or axle to analog or digital output signals.
+
+Servomechanism, or servo:
+A device used to provide control of a desired operation using feedback
+
+Pulse-width modulation (PWM), or pulse-duration modulation (PDM):
+Is a method of reducing the average power delivered by an electrical signal, by effectively chopping it up into discrete parts.
+
+Clearpath Robotics, Inc. (also known as Clearpath):
+Was founded in 2009 by a group of four University of Waterloo graduates, and remains headquartered in Waterloo Region, Canada. The original goal of Clearpath was to streamline
+field robotics research for universities and private corporations, but the company has since expanded and is now also manufacturing and selling the OTTO line of self-driving vehicles 
+for industrial environments.
+
+
+4Front Robotics:
+Provide unmanned vehicles and perform services for complex missions:
+
+ASIMO (Advanced Step in Innovative Mobility):
+Is a humanoid robot created by Honda in 2000. It is currently displayed in the Miraikan museum in Tokyo, Japan.
+
+iCub:
+Is a 1-metre-tall open-source robotics humanoid robot testbed for research into human cognition and artificial intelligence.
+
+Atlas:
+Is a bipedal humanoid robot primarily developed by the American robotics company Boston Dynamics with funding and oversight from the U.S. Defense Advanced Research Projects Agency (DARPA).
+The robot was initially designed for a variety of search and rescue tasks.
+
+BigDog:
+Is a dynamically stable quadruped military robot that was created in 2005 by Boston Dynamics with Foster-Miller, the NASA Jet Propulsion Laboratory, and the 
+Harvard University Concord Field Station.
+
+The da Vinci Surgical System:
+Is a robotic surgical system made by the American company Intuitive Surgical. Approved by the Food and Drug Administration (FDA) in 2000, it is designed to facilitate surgery
+using a minimally invasive approach and is controlled by a surgeon from a console. 
+
+Lego Mindstorms:
+Is a hardware and software structure which is produced by Lego for the development of programmable robots based on Lego building blocks.
+
+Gazebo:
+Is an open-source 3D robotics simulator. Gazebo was a component in the Player Project from 2004 through 2011. Gazebo integrated the ODE physics engine, OpenGL rendering, and support
+code for sensor simulation and actuator control. In 2011, Gazebo became an independent project supported by Willow Garage. 
+
+Sampling rate (In signal processing):
+Sampling is the reduction of a continuous-time signal to a discrete-time signal. A common example is the conversion of a sound wave (a continuous signal) to a sequence of samples
+(a discrete-time signal).
+
+For statistics and control theory, Kalman filtering, also known as linear quadratic estimation (LQE):
+Is an algorithm that uses a series of measurements observed over time, including statistical noise and other inaccuracies, and produces estimates of unknown variables that tend to be
+more accurate than those based on a single measurement alone, by estimating a joint probability distribution over the variables for each timeframe. 
+
+Egocentric vision or first-person vision:
+Is a sub-field of computer vision that entails analyzing images and videos captured by a wearable camera, which is typically worn on the head or on the chest and naturally approximates
+the visual field of the camera wearer. Consequently, visual data capture the part of the scene on which the user focuses to carry out the task at hand and offer a valuable perspective
+to understand the user's activities and their context in a naturalistic setting.
+
+Allocentric/ Allothetic means being centred in people or places other than oneself:
+ It has been defined as a process of "determining and maintaining a course or trajectory from one place to another.[1] It can be used as a navigational strategy among animals to aid in
+ their survival.
+
+A closed loop control system:
+Is a set of mechanical or electronic devices that automatically regulates a process variable to a desired state or set point without human interaction. 
+Closed loop control systems contrast with open loop control systems, which require manual input.
+
+In an open-loop controller, also called a non-feedback controller:
+The control action from the controller is independent of the "process output", which is the process variable
+that is being controlled.[1] It does not use feedback to determine if its output has achieved the desired goal of the input command or process "set point".
+
+Cognitive Robotics or Cognitive Technology:
+Is a subfield of robotics concerned with endowing a robot with intelligent behavior by providing it with a processing architecture that will allow it to learn and reason about how
+to behave in response to complex goals in a complex world.
+
+Behavior-based robotics (BBR) or behavioral robotics:
+Is an approach in robotics that focuses on robots that can exhibit complex-appearing behaviors despite little internal variable
+state to model its immediate environment, mostly gradually correcting its actions via sensory-motor links.
+
+In a digitally modulated signal or a line code, symbol rate or modulation rate:
+Is the number of symbol changes, waveform changes, or signaling events across the transmission medium per unit of time. The symbol rate is measured in baud (Bd), baud rate or
+symbols per second. 
+
+In digital audio using pulse-code modulation (PCM), bit depth:
+Is the number of bits of information in each sample, and it directly corresponds to the resolution of each sample.
+
+In signal processing, the Nyquist rate:
+Specifies a sampling rate (in units of samples per second or hertz, Hz) equal to twice the highest frequency (bandwidth) of a given function or signal. 
+With an equal or higher sampling rate, the resulting discrete-time sequence is said to be free of the distortion known as aliasing.
+
+In signal processing and related disciplines, aliasing:
+Is an effect that causes different signals to become indistinguishable (or aliases of one another) when sampled. It also often refers to the distortion or artifact
+that results when a signal reconstructed from samples is different from the original continuous signal.
+
