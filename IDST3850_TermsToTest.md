@@ -2,7 +2,7 @@
 
 
 - Pulse-Width Modulation: a modulation technique that generates variable-width pulses to represent the amplitude of an analog input signal. 
-- Servo: device used to provide control of a desired operation using feedback
+- Servo:  an automatic device that uses error-sensing negative feedback to correct the action of a mechanism
 - Motor Encoder: a rotary encoder mounted to an electric motor that provides a close loop feedback signal that tracts the motors shafts' speed and/or position 
 - Inertial Measurement Unit: measures and reports the raw or filterred angular rate and specific force/acceleration of the thing it is attcahed to.
 - Proportional Integral Derivative Controller: a control loop mechanism employing feedback that is widely used in industrial control systems and a variety of other applications requiring continuously modulated control.
@@ -32,14 +32,14 @@ The company was most likely best known for its open-source software suite ROS (R
 - Lego Mindstorms: a hardware and software structure which is produced by Lego for the development of programmable robots based on Lego building blocks.
 - Gazebo: Gazebo was a component in the Player Project from 2004 through 2011. Gazebo integrated the ODE physics engine, OpenGL rendering, and support code for sensor simulation and actuator control.
 - Sampling Rate: the number of samples taken per second.
-- Aliasing
-- Nyquist
-- bit-depth (quantization)
-- Baud rate
-- behaviour control
-- cognitive robotics
-- open-loop control
-- closed-loop control
-- allocentric
-- egocentric
-- Kalman Filter
+- Aliasing: Aliasing is basically a form of undersampling a siganal that hasn't been properly recorded 
+- Nyquist: a sinuisoidal function in time or distance can be regenerated with no loss of information as long as it is sampled at a frequency greater than or equal to twice per cycle
+- bit-depth (quantization): refers to the color information stored in an image
+- Baud rate: the rate at which information is transferred in a communication channel
+- behaviour control: an approach in robotics that focuses on robots that can exhibit complex-appearing behaviors despite little internal variable state to model its immediate environment, mostly gradually correcting its actions via sensory-motor links
+- cognitive robotics: a subfield of robotics concerned with endowing a robot with intelligent behavior by providing it with a processing architecture that will allow it to learn and reason about how to behave in response to complex goals in a complex world.
+- open-loop control: The control system in which input or controlling action does not depend on the output is called an Open-loop control system.
+- closed-loop control: The control system in which input or controlling action does not depend on the output is called an Open-loop control system.
+- allocentric:  a point of view that revolves around the objects in space and is independ of self
+- egocentric: a spatial navigation that allows the robot to navigate the around objects based on the objects position in relation to itslef. 
+- Kalman Filter:  an efficient recursive filter estimating the internal-state of a linear dynamic system from a series of noisy measurements
